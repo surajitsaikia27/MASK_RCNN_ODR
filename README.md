@@ -1,4 +1,5 @@
 # Mask RCNN for object Detection in Videos and Images
+This is an implementation of Mask R-CNN on Python 3 with TensorFlow and Keras. You can find the original code here https://github.com/matterport/Mask_RCNN
 ![Decoder_ouput](https://github.com/surajitsaikia27/MASK_RCNN_ODR/blob/master/surf.png)
 # Step 1: create a conda virtual environment with python 3
 
