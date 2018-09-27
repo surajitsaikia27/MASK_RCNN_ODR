@@ -35,4 +35,6 @@ place the file in the MASK_RCNN_ODR directory
 python image_demo.py — path ‘path to the image directory’
 python video_demo.py — path ‘path to the image directory’
 ```
-![Decoder_ouput](https://github.com/surajitsaikia27/MASK_RCNN_ODR/blob/master/surf.png)
+![Decoder_ouput](https://github.com/surajitsaikia27/MASK_RCNN_ODR/blob/master/maskmallorca.png)
+![Decoder_ouput](https://github.com/surajitsaikia27/MASK_RCNN_ODR/blob/master/masksalce.png)
+
